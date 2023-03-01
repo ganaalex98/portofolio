@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/portofolio/static/css/main.1b16113a.css",
+    "main.js": "/portofolio/static/js/main.49ab5e5f.js",
+    "static/js/787.a71561b8.chunk.js": "/portofolio/static/js/787.a71561b8.chunk.js",
+    "static/media/rlt.png": "/portofolio/static/media/rlt.343028862bef5d2b6753.png",
+    "static/media/dice1.png": "/portofolio/static/media/dice1.20c28fa8fd1a41d86e0e.png",
+    "static/media/kenoghn.png": "/portofolio/static/media/kenoghn.03ff3fca1119c06971ea.png",
+    "static/media/bile.png": "/portofolio/static/media/bile.6d96d5778cb093b02425.png",
+    "static/media/keno.png": "/portofolio/static/media/keno.b6261bd86e1a9271153d.png",
+    "static/media/dice2.png": "/portofolio/static/media/dice2.e1843757ae2729ec85ae.png",
+    "static/media/socca.png": "/portofolio/static/media/socca.1fded00ee22dc0f927ad.png",
+    "static/media/cloverbet.png": "/portofolio/static/media/cloverbet.a85ba3228fb4d414b2e8.png",
+    "static/media/real.png": "/portofolio/static/media/real.6d44afd74686be45ed83.png",
+    "static/media/res.png": "/portofolio/static/media/res.1639e19bbc20a4c9c5d7.png",
+    "static/media/ngenge.png": "/portofolio/static/media/ngenge.60332f02cf2da002864c.png",
+    "static/media/meimg.jpg": "/portofolio/static/media/meimg.ed1ebdae38f0b066321b.jpg",
+    "static/media/qr.png": "/portofolio/static/media/qr.5ff7ff03c3a4649f63b9.png",
+    "static/media/cv.pdf": "/portofolio/static/media/cv.15c052453ea532f088a1.pdf",
+    "static/media/dela.png": "/portofolio/static/media/dela.1aa5c6ed72b3cc86ce4b.png",
+    "static/media/L.svg": "/portofolio/static/media/L.95611f46da6d6d4cdab4c39590b92755.svg",
+    "static/media/logo.svg": "/portofolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/portofolio/index.html",
+    "main.1b16113a.css.map": "/portofolio/static/css/main.1b16113a.css.map",
+    "main.49ab5e5f.js.map": "/portofolio/static/js/main.49ab5e5f.js.map",
+    "787.a71561b8.chunk.js.map": "/portofolio/static/js/787.a71561b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b16113a.css",
+    "static/js/main.49ab5e5f.js"
+  ]
+}
